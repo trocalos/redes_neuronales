@@ -19,7 +19,7 @@ Este es un proyecto de aprendizaje automático que utiliza una red neuronal para
 1. Clonar el repositorio:
 
 ```
-git clone https://github.com/trocalos.git
+[https://github.com/trocalos/redes_neuronales.git]
 Conversor de temperatura Celsius a Fahrenheit
 ```
 
@@ -59,7 +59,7 @@ This is a machine learning project that uses a neural network to convert Celsius
 1. Clone the repository:
 
 ```
-git clone https://github.com/trocalos.git
+[git clone https://github.com/trocalos.git](https://github.com/trocalos/redes_neuronales.git)
 ```
 
 2. Navigate to the project directory:
